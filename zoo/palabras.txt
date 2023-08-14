@@ -1,1 +1,11 @@
-Prueba
+Index-Chart
+Stacked Graph
+Small-Multiples
+Horizon Graph
+Q-Q Plots
+Parallel Coordinates
+Adjacency Diagrams
+Icicle Tree Map
+Force-Directed Layouts
+Arc Diagrams
+Matrix View
